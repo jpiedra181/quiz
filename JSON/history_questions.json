@@ -1,0 +1,364 @@
+{
+    "questions": [
+        {
+            "question": "Who discovered America in 1492?",
+            "options": [
+                "Christopher Columbus",
+                "Marco Polo",
+                "Ferdinand Magellan",
+                "Vasco da Gama"
+            ],
+            "answer": "Christopher Columbus",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "What is the name of the ship that transported the Pilgrims to America in 1620?",
+            "options": [
+                "Mayflower",
+                "Santa Maria",
+                "Endeavour",
+                "Beagle"
+            ],
+            "answer": "Mayflower",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "Who was known as the 'Maid of Orleans'?",
+            "options": [
+                "Marie Antoinette",
+                "Joan of Arc",
+                "Catherine the Great",
+                "Anne Boleyn"
+            ],
+            "answer": "Joan of Arc",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "What empire was ruled by Julius Caesar?",
+            "options": [
+                "The Roman Empire",
+                "The Ottoman Empire",
+                "The British Empire",
+                "The Mongol Empire"
+            ],
+            "answer": "The Roman Empire",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "Which Egyptian queen was the lover of Julius Caesar and Mark Antony?",
+            "options": [
+                "Cleopatra",
+                "Nefertiti",
+                "Hatshepsut",
+                "Isis"
+            ],
+            "answer": "Cleopatra",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "Which city-state was famous for its strict military training in Ancient Greece?",
+            "options": [
+                "Athens",
+                "Sparta",
+                "Delphi",
+                "Thebes"
+            ],
+            "answer": "Sparta",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "Who wrote the U.S. Declaration of Independence?",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Benjamin Franklin",
+                "John Adams"
+            ],
+            "answer": "Thomas Jefferson",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "Which wall was built to keep the Scots out of Roman Britain?",
+            "options": [
+                "Hadrian's Wall",
+                "The Berlin Wall",
+                "The Great Wall of China",
+                "Antonine Wall"
+            ],
+            "answer": "Hadrian's Wall",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "Which country gifted the Statue of Liberty to the United States?",
+            "options": [
+                "France",
+                "Germany",
+                "Italy",
+                "Spain"
+            ],
+            "answer": "France",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "What year did the Titanic sink?",
+            "options": [
+                "1912",
+                "1905",
+                "1918",
+                "1923"
+            ],
+            "answer": "1912",
+            "level": "easy",
+            "category": "history"
+        },
+        {
+            "question": "Which treaty ended World War I?",
+            "options": [
+                "Treaty of Versailles",
+                "Treaty of Paris",
+                "Treaty of Westphalia",
+                "Treaty of Utrecht"
+            ],
+            "answer": "Treaty of Versailles",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "Who was the longest-reigning monarch of the United Kingdom before Queen Elizabeth II?",
+            "options": [
+                "Queen Victoria",
+                "King George III",
+                "Queen Elizabeth I",
+                "King Edward VII"
+            ],
+            "answer": "Queen Victoria",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "In which year did the Berlin Wall fall?",
+            "options": [
+                "1987",
+                "1989",
+                "1991",
+                "1993"
+            ],
+            "answer": "1989",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "What was the main cause of the English Civil War?",
+            "options": [
+                "Religious conflict",
+                "Taxation disputes",
+                "Succession issues",
+                "Territorial disputes"
+            ],
+            "answer": "Religious conflict",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "Who was the leader of the Soviet Union during World War II?",
+            "options": [
+                "Vladimir Lenin",
+                "Joseph Stalin",
+                "Mikhail Gorbachev",
+                "Nikita Khrushchev"
+            ],
+            "answer": "Joseph Stalin",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "Which empire was led by Genghis Khan?",
+            "options": [
+                "The Mongol Empire",
+                "The Ottoman Empire",
+                "The Byzantine Empire",
+                "The Persian Empire"
+            ],
+            "answer": "The Mongol Empire",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "What year did the United States declare independence from Britain?",
+            "options": [
+                "1774",
+                "1776",
+                "1778",
+                "1781"
+            ],
+            "answer": "1776",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "Who was the first emperor of Rome?",
+            "options": [
+                "Julius Caesar",
+                "Augustus",
+                "Nero",
+                "Caligula"
+            ],
+            "answer": "Augustus",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "Which ancient civilization built Machu Picchu?",
+            "options": [
+                "Inca",
+                "Aztec",
+                "Maya",
+                "Olmec"
+            ],
+            "answer": "Inca",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "What was the name of the last queen of France before the French Revolution?",
+            "options": [
+                "Marie Antoinette",
+                "Catherine de Medici",
+                "Anne of Austria",
+                "Josephine Bonaparte"
+            ],
+            "answer": "Marie Antoinette",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "What event is considered the spark that started World War I?",
+            "options": [
+                "The assassination of Archduke Franz Ferdinand",
+                "The invasion of Belgium",
+                "The Zimmermann Telegram",
+                "The sinking of the Lusitania"
+            ],
+            "answer": "The assassination of Archduke Franz Ferdinand",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "Which US president issued the Emancipation Proclamation?",
+            "options": [
+                "Abraham Lincoln",
+                "George Washington",
+                "Thomas Jefferson",
+                "Theodore Roosevelt"
+            ],
+            "answer": "Abraham Lincoln",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "Which war is known as 'The Great War'?",
+            "options": [
+                "World War I",
+                "World War II",
+                "The Napoleonic Wars",
+                "The Franco-Prussian War"
+            ],
+            "answer": "World War I",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "What was the primary reason for the start of the Cold War?",
+            "options": [
+                "Ideological differences between the US and USSR",
+                "Territorial disputes in Europe",
+                "Religious conflicts",
+                "Trade disagreements"
+            ],
+            "answer": "Ideological differences between the US and USSR",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "Who was the Prime Minister of the United Kingdom during most of World War II?",
+            "options": [
+                "Winston Churchill",
+                "Neville Chamberlain",
+                "Clement Attlee",
+                "Harold Macmillan"
+            ],
+            "answer": "Winston Churchill",
+            "level": "medium",
+            "category": "history"
+        },
+        {
+            "question": "What was the name of the battle in which Napoleon was decisively defeated in 1815?",
+            "options": [
+                "Battle of Austerlitz",
+                "Battle of Leipzig",
+                "Battle of Trafalgar",
+                "Battle of Waterloo"
+            ],
+            "answer": "Battle of Waterloo",
+            "level": "hard",
+            "category": "history"
+        },
+        {
+            "question": "Which dynasty ruled China during the construction of the majority of the Great Wall?",
+            "options": [
+                "Ming Dynasty",
+                "Han Dynasty",
+                "Tang Dynasty",
+                "Song Dynasty"
+            ],
+            "answer": "Ming Dynasty",
+            "level": "hard",
+            "category": "history"
+        },
+        {
+            "question": "Who was the ruler of the Habsburg Empire during the Thirty Years' War?",
+            "options": [
+                "Ferdinand II",
+                "Charles V",
+                "Joseph II",
+                "Maria Theresa"
+            ],
+            "answer": "Ferdinand II",
+            "level": "hard",
+            "category": "history"
+        },
+        {
+            "question": "Which treaty officially ended the American Revolutionary War?",
+            "options": [
+                "Treaty of Paris (1783)",
+                "Treaty of Utrecht",
+                "Treaty of Ghent",
+                "Treaty of Versailles"
+            ],
+            "answer": "Treaty of Paris (1783)",
+            "level": "hard",
+            "category": "history"
+        },
+        {
+            "question": "What was the capital city of the Khmer Empire during its peak?",
+            "options": [
+                "Angkor",
+                "Hanoi",
+                "Ayutthaya",
+                "Sukhothai"
+            ],
+            "answer": "Angkor",
+            "level": "hard",
+            "category": "history"
+        }                
+    ]
+}
