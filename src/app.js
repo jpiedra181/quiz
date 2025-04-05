@@ -6,15 +6,15 @@ async function loadQuestions() {
   const pageTitle = document.querySelector('title').textContent;
 
   if (pageTitle === "Quiz - History") {
-      response = await fetch('/JSON/history_questions.json')
+      response = await fetch('/quiz/JSON/history_questions.json')
   } else if (pageTitle === "Quiz - Science") {
-      response = await fetch('/JSON/science_questions.json')
+      response = await fetch('/quiz/JSON/science_questions.json')
   } else if (pageTitle === "Quiz - Geography") {
-      response = await fetch('/JSON/geography_questions.json')
+      response = await fetch('/quiz/JSON/geography_questions.json')
   } else if (pageTitle === "Quiz - Math") {
-      response = await fetch('/JSON/mathematics_questions.json')
+      response = await fetch('/quiz/JSON/mathematics_questions.json')
   } else if (pageTitle === "Quiz - Literature") {
-      response = await fetch('/JSON/literature_questions.json')
+      response = await fetch('/quiz/JSON/literature_questions.json')
   }
 
   // Fetch the questions from the JSON file
