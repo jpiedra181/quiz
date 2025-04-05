@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+.question-item.correct {
+  color: rgb(112, 211, 112);
+}
+
+.question-item.incorrect {
+  color: rgb(250, 112, 112);
+}
+
+.question.right {
+  color: rgb(112, 211, 112);
+}
+
+.question.wrong {
+  color: rgb(250, 112, 112);
+}
+
+#alert.active {
+  display: block;
+}
+
+label {
+  color: inherit;
+}
+
+div.question {
+  color: white;
+  font-size: large;
+  margin-bottom: 20px;
+}
+
+div.question label {
+  font-size: medium;
+  padding-left: 20px;
+}
