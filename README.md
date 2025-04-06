@@ -64,11 +64,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-![Home Page](home.png)
+![Home Page](img/home.png)
 
-![History_Page](history.png)
+![History_Page](img/history.png)
 
-![History_Results](results.png)
+![History_Results](img/results.png)
 
 ## ✨ Final Thoughts
 Publishing a project with multiple pages using Vite and deploying it to GitHub Pages was a real challenge for me. I faced lots of small issues — from routing and file structure to Tailwind configuration and asset loading — but I kept pushing until I made it work.
